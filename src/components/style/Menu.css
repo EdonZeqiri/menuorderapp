@@ -1,0 +1,14 @@
+.menu_container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#F4F7FA ;
+}
+
+.menu_container_left{
+    width: 100%;
+    height: 100%;
+    display: grid;
+}
